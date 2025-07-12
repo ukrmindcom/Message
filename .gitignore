@@ -1,0 +1,13 @@
+# Gradle
+.gradle
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Environment variables
+.env
